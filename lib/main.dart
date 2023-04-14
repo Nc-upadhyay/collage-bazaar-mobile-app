@@ -1,5 +1,7 @@
 import 'package:colleage_bazaar/route.dart';
 import 'package:flutter/material.dart';
+import 'constraints/global_variable.dart';
+import 'features/auth/screens/auth_screen.dart';
 
 import 'constraints/global_variable.dart';
 import 'features/auth/screens/auth_screen.dart';
